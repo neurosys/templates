@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+function main()
+{
+    local argc=$BASH_ARGC
+    local idx=0
+    echo "scriptname '$0' argc = $argc"
+    for ((i=argc ; i >= 0 ; i--))
+    do
+        if [[ $i -eq $argc ]]
+        then
+            echo "argv[0] = '$0'";
+        else
+            idx=$((argc-i))
+            echo "argv[$idx] = '${BASH_ARGV[$i]}'"
+        fi
+    done
+}
+
+main $*
