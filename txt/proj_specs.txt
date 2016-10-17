@@ -1,0 +1,14 @@
+What should be the end result?
+Why are we doing this?
+Who benefits from this? Whow?
+When should it be ready?
+Is there an older implementation in place? How does it work? Why are we replacing it?
+What restrictions should we meet?
+Whith whom / what should it integrate?
+What are the necessary materials / information?
+What do we expect to go wrong?
+Which are the use cases?
+Whom may provide help in case it's needed?
+What kind of support we expect to need?
+Which are the costs?
+What's the first step?
