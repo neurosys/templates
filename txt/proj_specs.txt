@@ -11,4 +11,6 @@ Which are the use cases?
 Whom may provide help in case it's needed?
 What kind of support we expect to need?
 Which are the costs?
+How can this be split in sepparate independent tasks?
+What are the steps required?
 What's the first step?
